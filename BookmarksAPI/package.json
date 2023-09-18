@@ -1,0 +1,19 @@
+{
+  "name": "bookmarkserver",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bookmark Http Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurice Agboton",
+  "license": "ISC",
+  "dependencies": {
+    "module-name": "^0.0.1-security",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
